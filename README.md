@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVASCRIPT , VUE JS , NODE JS , THREE JS
 - 🌱 I’m currently learning more about JAVASCRIPT
 - 💞️ I’m looking to collaborate on JAVASCRIPT PROJECT...
-- 📫 How to reach me ...
+- 📫 How to reach me dajesrodener8@gmail.com
 
 <!---
 InfoSysRodener/InfoSysRodener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
