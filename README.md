@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InfoSysRodener
-- 👀 I’m interested in JAVASCRIPT , VUE JS , NODE JS , THREE JS
-- 🌱 I’m currently learning more about JAVASCRIPT
+- 👀 I’m interested in NEXT JS , REACT JS , NODE JS , THREE JS
+- 🌱 I'm currently learning in deep NEXT JS.
 - 💞️ I’m looking to collaborate on JAVASCRIPT PROJECT...
 - 📫 How to reach me dajesrodener8@gmail.com
 
