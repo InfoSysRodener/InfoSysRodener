@@ -6,9 +6,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=InfoSysRodener&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfoSysRodener&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfoSysRodener&hide_progress=true&theme=onedark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfoSysRodener&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfoSysRodener&show_icons=true&theme=onedark)
 <!---
 InfoSysRodener/InfoSysRodener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
