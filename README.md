@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfoSysRodener&show_icons=true&theme=onedark)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,react,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,react,git,threejs,ts,vite,vue,nextjs,laravel,firebase)](https://skillicons.dev)
 <!---
 InfoSysRodener/InfoSysRodener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
