@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @InfoSysRodener
-- 👀 I’m interested in NEXT JS , REACT JS , NODE JS , THREE JS
-- 🌱 I'm currently learning in deep NEXT JS.
-- 💞️ I’m looking to collaborate on JAVASCRIPT PROJECT...
-- 📫 How to reach me dajesrodener8@gmail.com
+- 👋 Hi, I’m Rodener Dajes
+- 👀 I'm lazy programmer.
+- 🌱 I'm currently learning 3d world to use in Web development using three js and r3f..
+- 📫 dajesrodener8@gmail.com
 
 <!---
 InfoSysRodener/InfoSysRodener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
