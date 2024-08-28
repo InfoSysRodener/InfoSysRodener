@@ -4,7 +4,7 @@
 - 📫 dajesrodener8@gmail.com
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=InfoSysRodener&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=InfoSysRodener&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfoSysRodener&hide_progress=true)
 
