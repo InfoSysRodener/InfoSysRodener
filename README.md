@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rodener Dajes
 - 🌱 I'm currently learning 3d world to use in Web development using three js and r3f..
 - [Visit My Portfolio](https://www.rodener.dev/)
--  Learning Python
+-  Want To learn Rust. 
 - 📫 dajesrodener8@gmail.com
 
 
